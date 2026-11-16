@@ -8,3 +8,4 @@ quantite=int(input("donner la quantite en stock:"))
 print("quantite en stock:",quantite)
 valeur = prix * quantite
 print("valeur totale du stock:",valeur,"DT")
+print("les valeures sont correct hanouna ")
